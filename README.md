@@ -2,9 +2,8 @@
 
 | Resource | Purpose |
 |-----------|---------|
-| **Code** | Example R scripts and reproducible workflows demonstrated during pod meetings. |
+| **Code** | Example scripts and reproducible workflows demonstrated during pod meetings. |
 | **Activities** | Practice exercises and workshop materials. |
-
 ---
 
 ## How to Use This Repository
